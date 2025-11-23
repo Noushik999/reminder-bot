@@ -35,8 +35,8 @@ cd reminder-bot
 pip install -r requirements.txt
 
 3. Create a `.env` file:
-BOT_TOKEN=1234567890:ABCDefGhIjkLmNoPQrsTuvWxYZ12345678
-MONGO_URL=mongodb+srv://<username>:<password>@cluster0.akj23.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+BOT_TOKEN=8562939067:AAF2vHRw_GCJq24VAzmwMjgU5MWLkxaAbu4
+MONGO_URL=mongodb+srv://noushikmote_db_user:nVDP6bgmJ2hchHH7@cluster0.ne46dfh.mongodb.net/?appName=Cluster0
 
 ---
 
